@@ -89,5 +89,6 @@ print(tukey_result)
 
 
 ## Conclusions
+through these tests we have figured out that the back and middle row are diffrent, the front and back row are diffrent, but the middle and front row are statistically the same in alcohol consumption.
 
 
